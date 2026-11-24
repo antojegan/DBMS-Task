@@ -1,0 +1,92 @@
+[
+  {
+    "_id": 1,
+    "product_name": "Wireless Mouse",
+    "description": "USB wireless optical mouse",
+    "price_inr": 599,
+    "category": {
+      "category_id": 1,
+      "category_name": "Electronics"
+    },
+    "seller": {
+      "seller_id": 1,
+      "seller_name": "Tech World",
+      "business_name": "Tech World Electronics"
+    }
+  },
+  {
+    "_id": 2,
+    "product_name": "Bluetooth Headphones",
+    "description": "Over-ear Bluetooth headphones",
+    "price_inr": 1499,
+    "category": {
+      "category_id": 1,
+      "category_name": "Electronics"
+    },
+    "seller": {
+      "seller_id": 1,
+      "seller_name": "Tech World",
+      "business_name": "Tech World Electronics"
+    }
+  },
+  {
+    "_id": 3,
+    "product_name": "Electric Kettle",
+    "description": "1.5 litre electric kettle",
+    "price_inr": 1199,
+    "category": {
+      "category_id": 2,
+      "category_name": "Home Appliances"
+    },
+    "seller": {
+      "seller_id": 2,
+      "seller_name": "Home Needs",
+      "business_name": "Home Needs Store"
+    }
+  },
+  {
+    "_id": 4,
+    "product_name": "Mixer Grinder",
+    "description": "Three-jar mixer grinder",
+    "price_inr": 2499,
+    "category": {
+      "category_id": 2,
+      "category_name": "Home Appliances"
+    },
+    "seller": {
+      "seller_id": 2,
+      "seller_name": "Home Needs",
+      "business_name": "Home Needs Store"
+    }
+  },
+  {
+    "_id": 5,
+    "product_name": "DBMS Fundamentals",
+    "description": "Database Management Systems textbook",
+    "price_inr": 650,
+    "category": {
+      "category_id": 3,
+      "category_name": "Books"
+    },
+    "seller": {
+      "seller_id": 3,
+      "seller_name": "Book Point",
+      "business_name": "Book Point"
+    }
+  },
+  {
+    "_id": 6,
+    "product_name": "SQL for Beginners",
+    "description": "Introduction to SQL programming",
+    "price_inr": 450,
+    "category": {
+      "category_id": 3,
+      "category_name": "Books"
+    },
+    "seller": {
+      "seller_id": 3,
+      "seller_name": "Book Point",
+      "business_name": "Book Point"
+    }
+  }
+]
